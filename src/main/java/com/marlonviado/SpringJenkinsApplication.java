@@ -10,6 +10,7 @@ public class SpringJenkinsApplication {
 
 	public static void main(String[] args) {
 		//logger.info("Running Main!!! Sample Spring Boot and Jenkins");
+		System.out.println("MARLON VIADO");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
