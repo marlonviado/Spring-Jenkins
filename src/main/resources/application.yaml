@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SPRING-JENKINS
+server:
+  port: 8181
